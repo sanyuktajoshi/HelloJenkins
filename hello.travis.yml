@@ -1,0 +1,3 @@
+language: Java
+javac hello.java
+java hello.java
