@@ -1,3 +1,4 @@
 language: java
-script: javac hello.java
-        java hello.java
+script: 
+javac hello.java
+java hello.java
